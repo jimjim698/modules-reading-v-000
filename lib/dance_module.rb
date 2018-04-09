@@ -1,6 +1,6 @@
-module Dance 
+module Dance
 
-  def twirl 
+  def twirl
     "I'm twirling!"
   end
 
